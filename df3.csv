@@ -1,0 +1,213 @@
+,country_name,country_subregion,country_region,internet_users,population
+0,China,Eastern Asia,Asia,1010740000,1427647786
+1,India,Southern Asia,Asia,833710000,1352642280
+2,United States,Northern America,Americas,312320000,327096265
+3,Indonesia,South-eastern Asia,Asia,196000000,267670543
+4,Brazil,South America,Americas,160010801,209469323
+5,Nigeria,Western Africa,Africa,136203231,195874685
+6,Bangladesh,Southern Asia,Asia,129180000,166303498
+7,Russia,Eastern Europe,Europe,124000000,145734038
+8,Pakistan,Southern Asia,Asia,118800000,213756286
+9,Japan,Eastern Asia,Asia,117400000,127202192
+10,Mexico,Northern America,Americas,92010000,128972439
+11,Iran,Western Asia,Asia,78086663,81800188
+12,Germany,Western Europe,Europe,77794405,83124418
+13,Philippines,South-eastern Asia,Asia,73003313,106651394
+14,Turkey,Southern Europe,Europe,69945905,82340088
+15,Vietnam,South-eastern Asia,Asia,68172134,95545962
+16,United Kingdom,Northern Europe,Europe,65001016,67141684
+17,France,Western Europe,Europe,59470000,64990511
+18,Egypt,Northern Africa,Africa,54740141,98423598
+19,South Korea,Eastern Asia,Asia,49421084,51171706
+20,Spain,Southern Europe,Europe,42400756,46692858
+21,Thailand,South-eastern Asia,Asia,54043108,69428453
+22,Italy,Southern Europe,Europe,50540000,60627291
+23,Poland,Eastern Europe,Europe,34697848,37921592
+24,Canada,Northern America,Americas,33950632,37064562
+25,Argentina,South America,Americas,33561876,44361150
+26,South Africa,Southern Africa,Africa,31858027,57792518
+27,Colombia,South America,Americas,30548252,49661048
+28,Saudi Arabia,Western Asia,Asia,27048861,33702756
+29,Malaysia,South-eastern Asia,Asia,25343685,31528033
+30,Ukraine,Eastern Europe,Europe,31100000,44246156
+31,Algeria,Northern Africa,Africa,26350000,42228408
+32,Morocco,Northern Africa,Africa,22072765,36029093
+33,Taiwan,Eastern Asia,Asia,21920626,23726460
+34,Australia,"Australia, New Zealand",Oceania,21159515,24898152
+35,Venezuela,South America,Americas,20564451,28887118
+36,Ethiopia,Eastern Africa,Africa,19543075,109224414
+37,Iraq,Western Asia,Asia,18892351,38433600
+38,Uzbekistan,Central Asia,Asia,16692456,32476244
+39,Myanmar,South-eastern Asia,Asia,16374103,53708320
+40,Netherlands,Western Europe,Europe,15877494,17059560
+41,Peru,South America,Americas,15674241,31989260
+42,Chile,South America,Americas,14864456,18729160
+43,Kazakhstan,Central Asia,Asia,13913699,18319618
+44,Romania,Eastern Europe,Europe,12545558,19506114
+45,Sudan,Northern Africa,Africa,12512639,41801533
+46,Ghana,Western Africa,Africa,15065541,29767102
+47,Côte d'Ivoire,Western Africa,Africa,10650818,25069230
+48,Uganda,Eastern Africa,Africa,10162807,42729036
+49,Belgium,Western Europe,Europe,10021242,11482178
+50,Sweden,Northern Europe,Europe,9554907,9971638
+51,Ecuador,South America,Americas,9521056,17084358
+52,Tanzania,Eastern Africa,Africa,30000000,56313438
+53,United Arab Emirates,Western Asia,Asia,8913217,9630959
+54,Kenya,Eastern Africa,Africa,8861485,51392565
+55,Czech Republic,Eastern Europe,Europe,8358728,10665677
+56,Switzerland,Western Europe,Europe,7942864,8525611
+57,Greece,Southern Europe,Europe,7923438,10522246
+58,Azerbaijan,Western Asia,Asia,7763795,9949537
+59,Austria,Western Europe,Europe,7681957,8891388
+60,Portugal,Southern Europe,Europe,7622142,10256193
+61,Yemen,Western Asia,Asia,7548512,28498683
+62,Hungary,Eastern Europe,Europe,7461297,9707499
+63,Sri Lanka,Southern Asia,Asia,7121116,21228763
+64,Belarus,Eastern Europe,Europe,7048231,9452617
+65,Democratic Republic of the Congo,Middle Africa,Africa,7011507,84068091
+66,Dominican Republic,Caribbean,Americas,6997472,10627141
+67,Guatemala,Central America,Americas,11750000,17247849
+68,Israel,Western Asia,Asia,6788737,8381516
+69,"Hong Kong, China",Eastern Asia,Asia,6585678,7371730
+70,Jordan,Western Asia,Asia,6480202,9965318
+71,Tunisia,Northern Africa,Africa,6400330,11565201
+72,Nepal,Southern Asia,Asia,16190000,28095714
+73,Syria,Western Asia,Asia,6257430,16945057
+74,Serbia,Southern Europe,Europe,6182411,8802754
+75,Mozambique,Eastern Africa,Africa,6162217,29496004
+76,Cuba,Caribbean,Americas,5638956,11338134
+77,Cameroon,Middle Africa,Africa,5580465,25216267
+78,Denmark,Northern Europe,Europe,5407278,5752126
+79,Cambodia,South-eastern Asia,Asia,5441827,16249792
+80,Norway,Northern Europe,Europe,5120225,5337962
+81,Bolivia,South America,Americas,4843916,11353142
+82,Finland,Northern Europe,Europe,4831170,5522576
+83,Singapore,South-eastern Asia,Asia,4821119,5757499
+84,Zambia,Eastern Africa,Africa,4760715,17351708
+85,Lebanon,Western Asia,Asia,4755187,6859408
+86,Senegal,Western Africa,Africa,4698108,15854323
+87,Bulgaria,Eastern Europe,Europe,4492326,7051608
+88,Zimbabwe,Eastern Africa,Africa,4472992,14438802
+89,Slovakia,Eastern Europe,Europe,4446926,5453014
+90,New Zealand,"Australia, New Zealand",Oceania,4273353,4743131
+91,Angola,Middle Africa,Africa,4271053,30809787
+92,Paraguay,South America,Americas,4160340,6956066
+93,Afghanistan,Southern Asia,Asia,4068194,37171921
+94,Kuwait,Western Asia,Asia,4053797,4137312
+95,Ireland,Northern Europe,Europe,4024552,4818690
+96,Oman,Western Asia,Asia,3717818,4829473
+97,Costa Rica,Central America,Americas,3511549,4999441
+99,Moldova,Eastern Europe,Europe,3083783,4051944
+100,Burkina Faso,Western Africa,Africa,3047909,19751466
+101,Honduras,Central America,Americas,2977793,9587522
+102,Croatia,Southern Europe,Europe,2811056,4156405
+103,Puerto Rico (U.S.),Caribbean,Americas,2664928,3039596
+104,Rwanda,Eastern Africa,Africa,2657770,12301970
+105,Malawi,Eastern Africa,Africa,2566126,18143217
+106,Qatar,Western Asia,Asia,2532059,2781682
+107,Madagascar,Eastern Africa,Africa,2505948,26262313
+108,Bosnia and Herzegovina,Southern Europe,Europe,2320000,3323925
+109,Panama,Central America,Americas,2371852,4176869
+110,Georgia,Western Asia,Asia,3446533,4002942
+111,Uruguay,South America,Americas,2360269,3449285
+112,Mali,Western Africa,Africa,2358540,19077749
+113,Kyrgyzstan,Central Asia,Asia,2309235,6304030
+114,Lithuania,Northern Europe,Europe,2243448,2801264
+115,Niger,Western Africa,Africa,2194985,22442831
+116,Albania,Southern Europe,Europe,2105339,2882740
+117,Armenia,Western Asia,Asia,2043110,2951745
+118,El Salvador,Central America,Americas,1993079,6420746
+119,Tajikistan,Central Asia,Asia,1959127,9100835
+120,Laos,South-eastern Asia,Asia,1749517,7061507
+121,Nicaragua,Central America,Americas,1732218,6465501
+122,Slovenia,Southern Europe,Europe,1640893,2077837
+123,North Macedonia,Southern Europe,Europe,1589659,2082957
+124,Latvia,Northern Europe,Europe,1585471,1928459
+125,Benin,Western Africa,Africa,1578008,11485044
+126,Guinea,Western Africa,Africa,1449758,12414293
+127,Bahrain,Western Asia,Asia,1431090,1569446
+128,Jamaica,Caribbean,Americas,1409888,2934847
+129,Libya,Northern Africa,Africa,1387116,6678559
+130,Haiti,Caribbean,Americas,1353986,11123178
+131,Turkmenistan,Central Asia,Asia,1223591,5850901
+132,Estonia,Northern Europe,Europe,1153786,1322920
+133,Trinidad and Tobago,Caribbean,Americas,1058744,1389843
+134,Gabon,Middle Africa,Africa,1040000,2119275
+135,South Sudan,Eastern Africa,Africa,1003542,10975927
+136,Sierra Leone,Western Africa,Africa,1000575,7650150
+137,Chad,Middle Africa,Africa,968500,15477729
+138,Togo,Western Africa,Africa,963795,7889093
+139,Cyprus,Western Asia,Asia,952369,1189265
+140,Botswana,Southern Africa,Africa,948977,2254068
+141,Namibia,Southern Africa,Africa,933450,2448301
+142,Papua New Guinea,Melanesia,Oceania,924955,8606323
+143,Mauritania,Western Africa,Africa,919398,4403313
+144,Mongolia,Eastern Asia,Asia,729236,3170216
+145,Mauritius,Eastern Africa,Africa,702911,1267185
+146,Lesotho,Southern Africa,Africa,665312,2108328
+147,Burundi,Eastern Africa,Africa,607311,11175374
+148,Luxembourg,Western Europe,Europe,570794,604245
+149,Djibouti,Eastern Africa,Africa,532849,958923
+150,"Macau, China",Eastern Asia,Asia,517789,631636
+151,Congo,Middle Africa,Africa,455055,5244359
+152,Fiji,Melanesia,Oceania,452479,883483
+153,Montenegro,Southern Europe,Europe,505055,627809
+154,Gambia,Western Africa,Africa,416753,2280094
+155,Eswatini,Southern Africa,Africa,414278,1136281
+156,Brunei,South-eastern Asia,Asia,406705,428963
+157,Bhutan,Southern Asia,Asia,388541,754388
+158,Liberia,Western Africa,Africa,377607,4818973
+159,East Timor,South-eastern Asia,Asia,356356,1267974
+160,Malta,Southern Europe,Europe,344970,439248
+161,Bahamas,Caribbean,Americas,336057,385637
+162,Equatorial Guinea,Middle Africa,Africa,332642,1308975
+163,Iceland,Northern Europe,Europe,329196,336713
+164,Cabo Verde,Western Africa,Africa,312315,543767
+165,Somalia,Eastern Africa,Africa,294851,15008226
+166,Guyana,South America,Americas,290375,779006
+167,Suriname,South America,Americas,275785,575990
+168,Maldives,Southern Asia,Asia,275717,515696
+169,Barbados,Caribbean,Americas,233604,286641
+170,New Caledonia,Melanesia,Oceania,226557,279993
+171,French Polynesia,Polynesia,Oceania,205746,277679
+172,Central African Republic,Middle Africa,Africa,202204,4666368
+173,Belize,Central America,Americas,176400,383071
+174,Guam,Micronesia,Oceania,132221,165768
+175,Aruba (Netherlands),Caribbean,Americas,102285,105845
+176,Saint Lucia,Caribbean,Americas,90889,181889
+177,Antigua and Barbuda,Caribbean,Americas,77529,96286
+178,Andorra,Southern Europe,Europe,76095,77006
+179,Guinea-Bissau,Western Africa,Africa,73148,1874303
+180,Solomon Islands,Melanesia,Oceania,72872,652857
+181,Saint Vincent and the Grenadines,Caribbean,Americas,72048,110211
+182,Vanuatu,Melanesia,Oceania,71050,292680
+183,Comoros,Eastern Africa,Africa,69020,832322
+184,U.S. Virgin Islands,Caribbean,Americas,67535,104680
+185,Eritrea,Eastern Africa,Africa,66402,3452786
+186,Samoa,Polynesia,Oceania,66023,196129
+187,Grenada,Caribbean,Americas,63692,111454
+188,São Tomé and Príncipe,Middle Africa,Africa,61155,211028
+189,Bermuda,Northern America,Americas,60349,62756
+190,Seychelles,Eastern Africa,Africa,55677,97096
+191,Dominica,Caribbean,Americas,51467,71625
+192,Cayman Islands,Caribbean,Americas,49906,64174
+193,Faroe Islands,Northern Europe,Europe,48097,48497
+194,Saint Kitts and Nevis,Caribbean,Americas,44669,52441
+195,Tonga,Polynesia,Oceania,44558,103197
+196,Greenland,Northern America,Americas,39242,56564
+198,Monaco,Western Europe,Europe,37553,38682
+199,Micronesia,Micronesia,Oceania,37257,112640
+200,Liechtenstein,Western Europe,Europe,37201,37910
+201,Gibraltar,Southern Europe,Europe,32494,33718
+202,Marshall Islands,Micronesia,Oceania,20560,58413
+203,San Marino,Southern Europe,Europe,20100,33785
+204,Kiribati,Micronesia,Oceania,16971,115847
+205,British Virgin Islands,Caribbean,Americas,14456,29802
+206,Anguilla,Caribbean,Americas,12043,14731
+207,Nauru,Micronesia,Oceania,6475,10670
+208,Tuvalu,Polynesia,Oceania,5520,11508
+209,"Saint Helena, Ascension and Tristan da Cunha",Western Africa,Africa,2906,6035
+210,Falkland Islands,South America,Americas,2881,3234
+211,Montserrat,Caribbean,Americas,2833,4993
+212,Wallis and Futuna,Polynesia,Oceania,1383,11661
+213,Niue,Polynesia,Oceania,1034,1620
